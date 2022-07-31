@@ -1,0 +1,16 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "Creating a to-do list web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinav Arya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
